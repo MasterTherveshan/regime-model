@@ -1,2 +1,8 @@
 streamlit
 openai
+yfinance
+pandas
+numpy
+matplotlib
+pandas_datareader
+statsmodels
